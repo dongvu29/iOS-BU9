@@ -17,7 +17,7 @@ Learn iOS Programming by working through the course [App Development with Swift]
   |1.4|[Interface Builder Basics](./InterfaceBuilderBasics) 
   |1.5|[Light](./Light) (Guided Project)
 
-###Week 2 -  Unit 2 - Introduction to UIKit
+### Week 2 -  Unit 2 - Introduction to UIKit
   |Order|Project Name
   |---|---
   |2.1|[Hello](./Hello)
